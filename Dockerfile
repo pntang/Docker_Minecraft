@@ -2,7 +2,7 @@
 
 FROM itzg/minecraft-server:latest
 
-ENV EULA=true
+ENV EULA=false
 
 EXPOSE 25565
 
